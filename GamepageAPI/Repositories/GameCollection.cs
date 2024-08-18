@@ -11,7 +11,7 @@ namespace GamepageAPI.Repositories
 
         public GameCollection() 
         {
-            Collection = _mongoDbRepository.mongoDB.GetCollection<Games>("Games");
+            Collection = _mongoDbRepository.MongoDB.GetCollection<Games>("Games");
         }
         public async Task DeleteGames(string id)
         {
