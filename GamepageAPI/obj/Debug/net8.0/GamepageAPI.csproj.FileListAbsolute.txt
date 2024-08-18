@@ -57,3 +57,4 @@ C:\Users\ASUS-PC\Desktop\Renting\Danisolo\ApiNetASP\GamepageAPI\GamepageAPI\obj\
 C:\Users\ASUS-PC\Desktop\Renting\Danisolo\ApiNetASP\GamepageAPI\GamepageAPI\obj\Debug\net8.0\GamepageAPI.pdb
 C:\Users\ASUS-PC\Desktop\Renting\Danisolo\ApiNetASP\GamepageAPI\GamepageAPI\obj\Debug\net8.0\GamepageAPI.genruntimeconfig.cache
 C:\Users\ASUS-PC\Desktop\Renting\Danisolo\ApiNetASP\GamepageAPI\GamepageAPI\obj\Debug\net8.0\ref\GamepageAPI.dll
+C:\Users\ASUS-PC\Desktop\Renting\Danisolo\ApiNetASP\GamepageAPI\GamepageAPI\obj\Debug\net8.0\GamepageAPI.sourcelink.json

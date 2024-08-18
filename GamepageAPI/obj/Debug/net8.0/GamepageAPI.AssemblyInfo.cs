@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GamepageAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5514730d1f1168758df0a2b87642eae25c25fc1")]
 [assembly: System.Reflection.AssemblyProductAttribute("GamepageAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GamepageAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
